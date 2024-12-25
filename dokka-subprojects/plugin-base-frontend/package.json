@@ -36,7 +36,7 @@
     "@babel/preset-env": "^7.24.5",
     "@jetbrains/babel-preset-jetbrains": "^2.3.1",
     "@jetbrains/logos": "1.4.27",
-    "@jetbrains/ring-ui": "^5.1.28",
+    "@jetbrains/ring-ui": "^7.0.14",
     "@types/node": "^16.11.10",
     "@types/react": "^17.0.37",
     "@types/react-dom": "^17.0.11",
